@@ -1,0 +1,474 @@
+{
+  "imagesUrl": "https://dkw5ssdvaqf8l.cloudfront.net/static/psr/br/framework/yii/images/content/pt-br/product/tarot/marselha/162x341/",
+  "imageBackCard": "https://dkw5ssdvaqf8l.cloudfront.net/static/psr/br/framework/yii/images/content/pt-br/product/tarot/marselha/back-blue-card.png",
+  "cards": [
+    {
+      "name": "O MAGO",
+      "image": "arcano1.jpg",
+      "flipCard": true,
+      "description": "A carta representa a letra hebraica ALEPH, que é símbolo do mistério, da intuição e do anjo da guarda. Ele aponta para os talentos, capacidades e recursos à sua disposição."
+    },
+    {
+      "name": "A SACERDOTISA",
+      "image": "arcano2.jpg",
+      "flipCard": true,
+      "description": "Simboliza uma figura materna, grande detentora de conhecimento, mas que precisa protegê-lo de influências. simboliza a sabedoria, o conhecimento, a intuição, o crescimento, a gestação, a nutrição da alma e do corpo."
+    },
+    {
+      "name": "A IMPERATRIZ",
+      "image": "arcano3.jpg",
+      "flipCard": true,
+      "description": "A imperatriz mostra-nos o poder da beleza e da riqueza. É um arcano de realização, tanto que tem na sua mão o ceptro do poder, mas também tem um escudo para se proteger, pois na posição em que se encontra, não pode confiar em muitos. Neste momento, as conquistas estão favorecidas. É um momento de muita força e muita sorte."
+    },
+    {
+      "name": "O IMPERADOR",
+      "image": "arcano4.jpg",
+      "flipCard": true,
+      "description": "Como representação da letra Heh, a janela, a carta é ligada à supervisão e ao controle. É associada principalmente à figura paterna, que regula e ordena a vida familiar. O Imperador representa a lei, os limites e a ordem, no contexto de liderança e autoridade silenciosa."
+    },
+    {
+      "name": "O PAPA",
+      "image": "arcano5.jpg",
+      "flipCard": true,
+      "description": "O Papa representa o domínio sobre a religião, a filosofia e a espiritualidade. Sempre representa pessoas que são mais religiosas do que materialistas. Quando este arcano aparece, ele confirma que tudo será resolvido de maneira amigável, buscando encontrar sempre o acordo para uma situação."
+    },
+    {
+      "name": "OS ENAMORADOS",
+      "image": "arcano6.jpg",
+      "flipCard": true,
+      "description": "Comprometimento e amor. A carta significa atração, dúvida, indecisão, relacionamento afetivo, dualidade, duplicidade, união de opostos, caminhos a escolher e comunicação. É um momento propício para tomar decisões. Há barreiras que devem ser ultrapassadas. Tome a decisão com o coração."
+    },
+    {
+      "name": "A CARRUAGEM",
+      "image": "arcano7.jpg",
+      "flipCard": true,
+      "description": "Avanço, progresso, início de algo novo. Simboliza a vitória, direcção, controle, esforço, confiança, o caminho. Na caminhada espiritual, este Arcano representa o momento em que o viajante passou pela encruzilhada, tomou um rumo firme e está determinado a cumprir mais etapas evolutivas."
+    },
+    {
+      "name": "A JUSTIÇA",
+      "image": "arcano8.jpg",
+      "flipCard": true,
+      "description": "Equilíbrio, julgamento, leis, limites. Na caminhada espiritual, este Arcano representa um momento de equilíbrio, no qual se recebem as recompensas (ou punições) materiais e emocionais pelo caminho já percorrido. É inevitável. Reflita sempre antes de tomar decisões. Elas devem ser justas."
+    },
+    {
+      "name": "O EREMITA",
+      "image": "arcano9.jpg",
+      "flipCard": true,
+      "description": "Simboliza o isolamento, restrição, afastamento. O eremita isola-se para descobrir o conhecimento que o rodeia, na natureza, por exemplo, e também para se autoconhecer. O aspecto fundamental é que necessita de cortar os laços (temporariamente ou não) com a sociedade que o rodeia."
+    },
+    {
+      "name": "A RODA DA FORTUNA",
+      "image": "arcano10.jpg",
+      "flipCard": true,
+      "description": "Destino, reflexão, tudo acontece a seu tempo. Representa as situações de mudanças em nossa vida. Essas mudanças nos fazem sair de uma rotina que faz com que a vida tenha pouco gosto e variedades. Ora, a roda da fortuna vem trazer as novidades, as surpresas e assim trazendo um novo gosto para nossa vida. A Roda da Fortuna pede que se conscientize de que o mundo não esta contra si, as energias cósmicas do universo devem ser avaliadas para que consiga entender as situações que o rodeiam. As situações nem sempre serão como você deseja, o universo tem as suas próprias razões e caminhos. A vida segue e a sorte nem sempre será ao seu favor, nem sempre será contra você."
+    },
+    {
+      "name": "A FORÇA",
+      "image": "arcano11.jpg",
+      "flipCard": true,
+      "description": "Força, domínio, prazer, paixão. O Arcano mostra o domínio no campo material e espiritual, com um controle quase absoluto. Pode indicar que uma força superior está a dominar alguém. Na caminhada espiritual, este Arcano representa o momento em que o caminhante precisa aprender a dominar a sua força interior e exterior, fazendo delas dois importantes aliados na sua caminhada evolutiva."
+    },
+    {
+      "name": "O HOMEM PENDURADO",
+      "image": "arcano12.jpg",
+      "flipCard": true,
+      "description": "Sacrifício, reverter a situação, perspectiva diversa. Como um todo, há um sugestão de vida em suspensão, mas vida, não morte. A história natural é mais elevada incorporada neste simbolismo: após o sagrado Mistério da Morte há o glorioso Mistério da Ressurreição. A destruição do egoísmo vivifica a humanidade, e isto envolve o sacrifício que consagra."
+    },
+    {
+      "name": "A MORTE",
+      "image": "arcano13.jpg",
+      "flipCard": true,
+      "description": "Despedida, mudança repentina. A carta mostra que mudanças involuntárias irão ocorrer e que não se deve tentar impedi-las, pelo contrário, deve-se aceitá-las. É a carta da transformação, do desapego e do fim dos ciclos. A carta da passagem para outra realidade, que pode vir como um duro golpe. Purificação através da dor, nada de ruim virá depois da morte."
+    },
+    {
+      "name": "A TEMPERANÇA",
+      "image": "arcano14.jpg",
+      "flipCard": true,
+      "description": "Harmonia, equilíbrio. simboliza a tentativa de harmonização de contrários e a capacidade de modular pólos incongruentes. Pode indicar a necessidade de se equilibrar o uso da razão e da emoção nas questões capitais ou de relevância mais acentuada."
+    },
+    {
+      "name": "O DIABO",
+      "image": "arcano15.jpg",
+      "flipCard": true,
+      "description": "A astúcia principal usada, com base em sua condição imensurável, é convencer-nos de que não existe. A infecção do corpo, a manipulação das mentes e posse da sua alma são as mais freqüentes armas na luta contra o bem. A sua missão é a de ampliar ao máximo o princípio da corrupção, mesmo à beira da auto-destruição. O Diabo manifesta o destino (bom ou mau). Poder de sedução, impulso cego, tentação, obsessão. Fraqueza, cegueira, desordem. Efeitos maléficos. A patética condição humana que prefere a ilusão à verdade."
+    },
+    {
+      "name": "A TORRE",
+      "image": "arcano16.jpg",
+      "flipCard": true,
+      "description": "Pode significar que as coisas que não se encaixam serão separadas definitivamente por Deus (ou pelo Destino) na vida do consulente. A mudança através da força da natureza é uma oportunidade de um novo começo material sem rompimento propriamente com o espiritual, o consulente com isso tem forças para se erguer, pois o que não o destrói o fortalece."
+    },
+    {
+      "name": "A ESTRELA",
+      "image": "arcano17.jpg",
+      "flipCard": true,
+      "description": "Está associada com o feminino e com a dimensão movimento. Símbolo da revelação da essência fundamental do ser. A Estrela significa esperança, ajuda inesperada (por sua vez, proteção metafísica), perspicácia e claridade de visão, inspiração, flexibilidade. Um grande amor será dado e recebido. Boa saúde. Carta totalmente espiritual."
+    },
+    {
+      "name": "A LUA",
+      "image": "arcano18.jpg",
+      "flipCard": true,
+      "description": "A inteligência instintiva, os ciclos vitais. Os elementos, o mundo visível, a luz refletida, as formas materiais, o simbolismo. Imaginação. Reflexão e reflexos. Aparências. Ilusões. O momento de reavaliar a direção em busca do retorno à fonte."
+    },
+    {
+      "name": "O SOL",
+      "image": "arcano19.jpg",
+      "flipCard": true,
+      "description": "Durante esta fase a realização de todos os seus desejos é possível. Fase de otimismo de alegria que dá capacidade para ver toda a beleza da vida. Capacidade para aceitar a vida conforme ela é e para viver contente com as alegrias que percebe que tem no dia-a-dia."
+    },
+    {
+      "name": "O JULGAMENTO",
+      "image": "arcano20.jpg",
+      "flipCard": true,
+      "description": "Este é um momento de separação entre o passado e o futuro, neste momento o consulente irá colher os frutos do que plantou."
+    },
+    {
+      "name": "O MUNDO",
+      "image": "arcano21.jpg",
+      "flipCard": true,
+      "description": "O Mundo representa completude, perfeição, elevação, abertura, desprendimento , suavidade e felicidade. Representa o fim de um ciclo e preparação para um novo começo, é o desfecho da viagem arquetípica iniciada pelo arcano sem número, o Louco."
+    },
+    {
+      "name": "O LOUCO",
+      "image": "arcano22.jpg",
+      "flipCard": true,
+      "description": "No Louco, tudo é leve e solto. Isto pode trazer inquietação e atividade, pode trazer mudanças àquilo que está estagnado. O cão tenta avisá-lo do precipício que tem à frente, mas parece que ele nem percebe, por estar distraído a olhar a borboleta, livre. Simboliza o desligamento da matéria, uma história a ser vivida, continuar vivendo a vida sabendo que algo surpreendente poderá acontecer e aceitar esse fato despreocupadamente. O acaso irá resolver tudo. Pode ser interpretado como despreocupação, curiosidade de experimentar coisas novas ou até mesmo um pouco de confusão."
+    },
+    {
+      "name": "ÀS DE COPAS",
+      "image": "arcano23.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. No tarô, o naipe de copas é ligado ao elemento água e ao mundo dos sentimentos, sendo o símbolo da taça relacionado ao coração, como receptáculo das nossas emoções."
+    },
+    {
+      "name": "2 DE COPAS",
+      "image": "arcano24.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. No tarô, o naipe de copas é ligado ao elemento água e ao mundo dos sentimentos, sendo o símbolo da taça relacionado ao coração, como receptáculo das nossas emoções."
+    },
+    {
+      "name": "3 DE COPAS",
+      "image": "arcano25.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. No tarô, o naipe de copas é ligado ao elemento água e ao mundo dos sentimentos, sendo o símbolo da taça relacionado ao coração, como receptáculo das nossas emoções."
+    },
+    {
+      "name": "4 DE COPAS",
+      "image": "arcano26.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. No tarô, o naipe de copas é ligado ao elemento água e ao mundo dos sentimentos, sendo o símbolo da taça relacionado ao coração, como receptáculo das nossas emoções."
+    },
+    {
+      "name": "5 DE COPAS",
+      "image": "arcano27.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. No tarô, o naipe de copas é ligado ao elemento água e ao mundo dos sentimentos, sendo o símbolo da taça relacionado ao coração, como receptáculo das nossas emoções."
+    },
+    {
+      "name": "6 DE COPAS",
+      "image": "arcano28.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. No tarô, o naipe de copas é ligado ao elemento água e ao mundo dos sentimentos, sendo o símbolo da taça relacionado ao coração, como receptáculo das nossas emoções."
+    },
+    {
+      "name": "7 DE COPAS",
+      "image": "arcano29.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. No tarô, o naipe de copas é ligado ao elemento água e ao mundo dos sentimentos, sendo o símbolo da taça relacionado ao coração, como receptáculo das nossas emoções."
+    },
+    {
+      "name": "8 DE COPAS",
+      "image": "arcano30.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. No tarô, o naipe de copas é ligado ao elemento água e ao mundo dos sentimentos, sendo o símbolo da taça relacionado ao coração, como receptáculo das nossas emoções."
+    },
+    {
+      "name": "9 DE COPAS",
+      "image": "arcano31.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. No tarô, o naipe de copas é ligado ao elemento água e ao mundo dos sentimentos, sendo o símbolo da taça relacionado ao coração, como receptáculo das nossas emoções."
+    },
+    {
+      "name": "10 DE COPAS",
+      "image": "arcano32.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. No tarô, o naipe de copas é ligado ao elemento água e ao mundo dos sentimentos, sendo o símbolo da taça relacionado ao coração, como receptáculo das nossas emoções."
+    },
+    {
+      "name": "PRINCESA DE COPAS",
+      "image": "arcano33.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. No tarô, o naipe de copas é ligado ao elemento água e ao mundo dos sentimentos, sendo o símbolo da taça relacionado ao coração, como receptáculo das nossas emoções."
+    },
+    {
+      "name": "CAVALEIRO DE COPAS",
+      "image": "arcano34.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. No tarô, o naipe de copas é ligado ao elemento água e ao mundo dos sentimentos, sendo o símbolo da taça relacionado ao coração, como receptáculo das nossas emoções."
+    },
+    {
+      "name": "RAINHA DE COPAS",
+      "image": "arcano35.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. No tarô, o naipe de copas é ligado ao elemento água e ao mundo dos sentimentos, sendo o símbolo da taça relacionado ao coração, como receptáculo das nossas emoções."
+    },
+    {
+      "name": "REI DE COPAS",
+      "image": "arcano36.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. No tarô, o naipe de copas é ligado ao elemento água e ao mundo dos sentimentos, sendo o símbolo da taça relacionado ao coração, como receptáculo das nossas emoções."
+    },
+    {
+      "name": "ÀS DE ESPADAS",
+      "image": "arcano37.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de espadas corresponde ao elemento ar e esta relacionado ao poder ambivalente da mente e do pensamento. Representado pela espada, está ligado ao fazer e à criatividade."
+    },
+    {
+      "name": "2 DE ESPADAS ,",
+      "image": "arcano38.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de espadas corresponde ao elemento ar e esta relacionado ao poder ambivalente da mente e do pensamento. Representado pela espada, está ligado ao fazer e à criatividade."
+    },
+    {
+      "name": "3 DE ESPADAS",
+      "image": "arcano39.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de espadas corresponde ao elemento ar e esta relacionado ao poder ambivalente da mente e do pensamento. Representado pela espada, está ligado ao fazer e à criatividade."
+    },
+    {
+      "name": "4 DE ESPADAS",
+      "image": "arcano40.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de espadas corresponde ao elemento ar e esta relacionado ao poder ambivalente da mente e do pensamento. Representado pela espada, está ligado ao fazer e à criatividade."
+    },
+    {
+      "name": "5 DE ESPADAS",
+      "image": "arcano41.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de espadas corresponde ao elemento ar e esta relacionado ao poder ambivalente da mente e do pensamento. Representado pela espada, está ligado ao fazer e à criatividade."
+    },
+    {
+      "name": "6 DE ESPADAS",
+      "image": "arcano42.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de espadas corresponde ao elemento ar e esta relacionado ao poder ambivalente da mente e do pensamento. Representado pela espada, está ligado ao fazer e à criatividade."
+    },
+    {
+      "name": "7 DE ESPADAS",
+      "image": "arcano43.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de espadas corresponde ao elemento ar e esta relacionado ao poder ambivalente da mente e do pensamento. Representado pela espada, está ligado ao fazer e à criatividade."
+    },
+    {
+      "name": "8 DE ESPADAS",
+      "image": "arcano44.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de espadas corresponde ao elemento ar e esta relacionado ao poder ambivalente da mente e do pensamento. Representado pela espada, está ligado ao fazer e à criatividade."
+    },
+    {
+      "name": "9 DE ESPADAS",
+      "image": "arcano45.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de espadas corresponde ao elemento ar e esta relacionado ao poder ambivalente da mente e do pensamento. Representado pela espada, está ligado ao fazer e à criatividade."
+    },
+    {
+      "name": "10 DE ESPADAS",
+      "image": "arcano46.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de espadas corresponde ao elemento ar e esta relacionado ao poder ambivalente da mente e do pensamento. Representado pela espada, está ligado ao fazer e à criatividade."
+    },
+    {
+      "name": "PRINCESA DE ESPADAS",
+      "image": "arcano47.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de espadas corresponde ao elemento ar e esta relacionado ao poder ambivalente da mente e do pensamento. Representado pela espada, está ligado ao fazer e à criatividade."
+    },
+    {
+      "name": "CAVALEIRO DE ESPADAS",
+      "image": "arcano48.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de espadas corresponde ao elemento ar e esta relacionado ao poder ambivalente da mente e do pensamento. Representado pela espada, está ligado ao fazer e à criatividade."
+    },
+    {
+      "name": "RAINHA DE ESPADAS",
+      "image": "arcano49.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de espadas corresponde ao elemento ar e esta relacionado ao poder ambivalente da mente e do pensamento. Representado pela espada, está ligado ao fazer e à criatividade."
+    },
+    {
+      "name": "REI DE ESPADAS",
+      "image": "arcano50.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de espadas corresponde ao elemento ar e esta relacionado ao poder ambivalente da mente e do pensamento. Representado pela espada, está ligado ao fazer e à criatividade."
+    },
+    {
+      "name": "ÀS DE PAUS",
+      "image": "arcano51.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de paus liga-se ao elemento fogo que a tudo transforma sem ser alterado. Está relacionado ao plano energético e espiritual bem como à coragem, vontade e poder de realização. Representado pelo bastão."
+    },
+    {
+      "name": "2 DE PAUS",
+      "image": "arcano52.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de paus liga-se ao elemento fogo que a tudo transforma sem ser alterado. Está relacionado ao plano energético e espiritual bem como à coragem, vontade e poder de realização. Representado pelo bastão."
+    },
+    {
+      "name": "3 DE PAUS",
+      "image": "arcano53.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de paus liga-se ao elemento fogo que a tudo transforma sem ser alterado. Está relacionado ao plano energético e espiritual bem como à coragem, vontade e poder de realização. Representado pelo bastão."
+    },
+    {
+      "name": "4 DE PAUS",
+      "image": "arcano54.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de paus liga-se ao elemento fogo que a tudo transforma sem ser alterado. Está relacionado ao plano energético e espiritual bem como à coragem, vontade e poder de realização. Representado pelo bastão."
+    },
+    {
+      "name": "5 DE PAUS",
+      "image": "arcano55.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de paus liga-se ao elemento fogo que a tudo transforma sem ser alterado. Está relacionado ao plano energético e espiritual bem como à coragem, vontade e poder de realização. Representado pelo bastão."
+    },
+    {
+      "name": "6 DE PAUS",
+      "image": "arcano56.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de paus liga-se ao elemento fogo que a tudo transforma sem ser alterado. Está relacionado ao plano energético e espiritual bem como à coragem, vontade e poder de realização. Representado pelo bastão."
+    },
+    {
+      "name": "7 DE PAUS",
+      "image": "arcano57.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de paus liga-se ao elemento fogo que a tudo transforma sem ser alterado. Está relacionado ao plano energético e espiritual bem como à coragem, vontade e poder de realização. Representado pelo bastão."
+    },
+    {
+      "name": "8 DE PAUS",
+      "image": "arcano58.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de paus liga-se ao elemento fogo que a tudo transforma sem ser alterado. Está relacionado ao plano energético e espiritual bem como à coragem, vontade e poder de realização. Representado pelo bastão."
+    },
+    {
+      "name": "9 DE PAUS",
+      "image": "arcano59.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de paus liga-se ao elemento fogo que a tudo transforma sem ser alterado. Está relacionado ao plano energético e espiritual bem como à coragem, vontade e poder de realização. Representado pelo bastão."
+    },
+    {
+      "name": "10 DE PAUS",
+      "image": "arcano60.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de paus liga-se ao elemento fogo que a tudo transforma sem ser alterado. Está relacionado ao plano energético e espiritual bem como à coragem, vontade e poder de realização. Representado pelo bastão."
+    },
+    {
+      "name": "PRINCESA DE PAUS",
+      "image": "arcano61.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de paus liga-se ao elemento fogo que a tudo transforma sem ser alterado. Está relacionado ao plano energético e espiritual bem como à coragem, vontade e poder de realização. Representado pelo bastão."
+    },
+    {
+      "name": "CAVALEIRO DE PAUS",
+      "image": "arcano62.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de paus liga-se ao elemento fogo que a tudo transforma sem ser alterado. Está relacionado ao plano energético e espiritual bem como à coragem, vontade e poder de realização. Representado pelo bastão."
+    },
+    {
+      "name": "RAINHA DE PAUS",
+      "image": "arcano63.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de paus liga-se ao elemento fogo que a tudo transforma sem ser alterado. Está relacionado ao plano energético e espiritual bem como à coragem, vontade e poder de realização. Representado pelo bastão."
+    },
+    {
+      "name": "REI DE PAUS",
+      "image": "arcano64.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de paus liga-se ao elemento fogo que a tudo transforma sem ser alterado. Está relacionado ao plano energético e espiritual bem como à coragem, vontade e poder de realização. Representado pelo bastão."
+    },
+    {
+      "name": "ÀS DE OUROS",
+      "image": "arcano65.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de ouros está relacionado ao elemento terra, portanto à vida material, às conquistas financeiras, profissionais e a tudo que, enfim, representa aquilo que pode ser tangível em termos materiais. No naipe de ouros existe a possibilidade de se conseguir conquistar a segurança material com trabalho, disciplina e esforço. O ser humano é ambicioso e a ambição tem relação como o naipe de ouros. Outra característica do naipe de ouros é a dedicação, o esforço, o empenho dedicados aos estudos e ao trabalho."
+    },
+    {
+      "name": "2 DE OUROS",
+      "image": "arcano66.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de ouros está relacionado ao elemento terra, portanto à vida material, às conquistas financeiras, profissionais e a tudo que, enfim, representa aquilo que pode ser tangível em termos materiais. No naipe de ouros existe a possibilidade de se conseguir conquistar a segurança material com trabalho, disciplina e esforço. O ser humano é ambicioso e a ambição tem relação como o naipe de ouros. Outra característica do naipe de ouros é a dedicação, o esforço, o empenho dedicados aos estudos e ao trabalho."
+    },
+    {
+      "name": "3 DE OUROS",
+      "image": "arcano67.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de ouros está relacionado ao elemento terra, portanto à vida material, às conquistas financeiras, profissionais e a tudo que, enfim, representa aquilo que pode ser tangível em termos materiais. No naipe de ouros existe a possibilidade de se conseguir conquistar a segurança material com trabalho, disciplina e esforço. O ser humano é ambicioso e a ambição tem relação como o naipe de ouros. Outra característica do naipe de ouros é a dedicação, o esforço, o empenho dedicados aos estudos e ao trabalho."
+    },
+    {
+      "name": "4 DE OUROS",
+      "image": "arcano68.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de ouros está relacionado ao elemento terra, portanto à vida material, às conquistas financeiras, profissionais e a tudo que, enfim, representa aquilo que pode ser tangível em termos materiais. No naipe de ouros existe a possibilidade de se conseguir conquistar a segurança material com trabalho, disciplina e esforço. O ser humano é ambicioso e a ambição tem relação como o naipe de ouros. Outra característica do naipe de ouros é a dedicação, o esforço, o empenho dedicados aos estudos e ao trabalho."
+    },
+    {
+      "name": "5 DE OUROS",
+      "image": "arcano69.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de ouros está relacionado ao elemento terra, portanto à vida material, às conquistas financeiras, profissionais e a tudo que, enfim, representa aquilo que pode ser tangível em termos materiais. No naipe de ouros existe a possibilidade de se conseguir conquistar a segurança material com trabalho, disciplina e esforço. O ser humano é ambicioso e a ambição tem relação como o naipe de ouros. Outra característica do naipe de ouros é a dedicação, o esforço, o empenho dedicados aos estudos e ao trabalho."
+    },
+    {
+      "name": "6 DE OUROS",
+      "image": "arcano70.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de ouros está relacionado ao elemento terra, portanto à vida material, às conquistas financeiras, profissionais e a tudo que, enfim, representa aquilo que pode ser tangível em termos materiais. No naipe de ouros existe a possibilidade de se conseguir conquistar a segurança material com trabalho, disciplina e esforço. O ser humano é ambicioso e a ambição tem relação como o naipe de ouros. Outra característica do naipe de ouros é a dedicação, o esforço, o empenho dedicados aos estudos e ao trabalho."
+    },
+    {
+      "name": "7 DE OUROS",
+      "image": "arcano71.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de ouros está relacionado ao elemento terra, portanto à vida material, às conquistas financeiras, profissionais e a tudo que, enfim, representa aquilo que pode ser tangível em termos materiais. No naipe de ouros existe a possibilidade de se conseguir conquistar a segurança material com trabalho, disciplina e esforço. O ser humano é ambicioso e a ambição tem relação como o naipe de ouros. Outra característica do naipe de ouros é a dedicação, o esforço, o empenho dedicados aos estudos e ao trabalho."
+    },
+    {
+      "name": "8 DE OUROS",
+      "image": "arcano72.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de ouros está relacionado ao elemento terra, portanto à vida material, às conquistas financeiras, profissionais e a tudo que, enfim, representa aquilo que pode ser tangível em termos materiais. No naipe de ouros existe a possibilidade de se conseguir conquistar a segurança material com trabalho, disciplina e esforço. O ser humano é ambicioso e a ambição tem relação como o naipe de ouros. Outra característica do naipe de ouros é a dedicação, o esforço, o empenho dedicados aos estudos e ao trabalho."
+    },
+    {
+      "name": "9 DE OUROS",
+      "image": "arcano73.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de ouros está relacionado ao elemento terra, portanto à vida material, às conquistas financeiras, profissionais e a tudo que, enfim, representa aquilo que pode ser tangível em termos materiais. No naipe de ouros existe a possibilidade de se conseguir conquistar a segurança material com trabalho, disciplina e esforço. O ser humano é ambicioso e a ambição tem relação como o naipe de ouros. Outra característica do naipe de ouros é a dedicação, o esforço, o empenho dedicados aos estudos e ao trabalho."
+    },
+    {
+      "name": "10 DE OUROS",
+      "image": "arcano74.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de ouros está relacionado ao elemento terra, portanto à vida material, às conquistas financeiras, profissionais e a tudo que, enfim, representa aquilo que pode ser tangível em termos materiais. No naipe de ouros existe a possibilidade de se conseguir conquistar a segurança material com trabalho, disciplina e esforço. O ser humano é ambicioso e a ambição tem relação como o naipe de ouros. Outra característica do naipe de ouros é a dedicação, o esforço, o empenho dedicados aos estudos e ao trabalho."
+    },
+    {
+      "name": "PRINCESA DE OUROS",
+      "image": "arcano75.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de ouros está relacionado ao elemento terra, portanto à vida material, às conquistas financeiras, profissionais e a tudo que, enfim, representa aquilo que pode ser tangível em termos materiais. No naipe de ouros existe a possibilidade de se conseguir conquistar a segurança material com trabalho, disciplina e esforço. O ser humano é ambicioso e a ambição tem relação como o naipe de ouros. Outra característica do naipe de ouros é a dedicação, o esforço, o empenho dedicados aos estudos e ao trabalho."
+    },
+    {
+      "name": "CAVALEIRO DE OUROS",
+      "image": "arcano76.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de ouros está relacionado ao elemento terra, portanto à vida material, às conquistas financeiras, profissionais e a tudo que, enfim, representa aquilo que pode ser tangível em termos materiais. No naipe de ouros existe a possibilidade de se conseguir conquistar a segurança material com trabalho, disciplina e esforço. O ser humano é ambicioso e a ambição tem relação como o naipe de ouros. Outra característica do naipe de ouros é a dedicação, o esforço, o empenho dedicados aos estudos e ao trabalho."
+    },
+    {
+      "name": "RAINHA DE OUROS",
+      "image": "arcano77.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de ouros está relacionado ao elemento terra, portanto à vida material, às conquistas financeiras, profissionais e a tudo que, enfim, representa aquilo que pode ser tangível em termos materiais. No naipe de ouros existe a possibilidade de se conseguir conquistar a segurança material com trabalho, disciplina e esforço. O ser humano é ambicioso e a ambição tem relação como o naipe de ouros. Outra característica do naipe de ouros é a dedicação, o esforço, o empenho dedicados aos estudos e ao trabalho."
+    },
+    {
+      "name": "REI DE OUROS",
+      "image": "arcano78.jpg",
+      "flipCard": true,
+      "description": "Os Arcanos menores expressam os resultados e as formas das ideias, contidos no primeiro conjunto. O naipe de ouros está relacionado ao elemento terra, portanto à vida material, às conquistas financeiras, profissionais e a tudo que, enfim, representa aquilo que pode ser tangível em termos materiais. No naipe de ouros existe a possibilidade de se conseguir conquistar a segurança material com trabalho, disciplina e esforço. O ser humano é ambicioso e a ambição tem relação como o naipe de ouros. Outra característica do naipe de ouros é a dedicação, o esforço, o empenho dedicados aos estudos e ao trabalho."
+    }
+  ]
+}
